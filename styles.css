@@ -80,6 +80,10 @@ h1, h2, h3, h4, p {
     background-position: center;
 }
 
+#gift-link:hover {
+    background-image: url(images/frame.png);
+}
+
 #footer {
     font-style: italic;
     width: 400px;
